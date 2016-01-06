@@ -29,7 +29,7 @@ menu = "about"
                     <p>
                       <i class="fa fa-map-marker"></i> <span itemprop="addressRegion">Shanghai, China</span>
                     </p>
-                    <p itemprop="email"> <i class="fa fa-envelope">&nbsp;</i> <a href="mailto:jurgen.kluft@gmail.com">jurgen.kluft@gmail.com</a> </p>
+                    <p itemprop="email"> <i class="fa fa-envelope">&nbsp;</i> <a href="mailto:jurgen.kluft@gmail.com">jurgen dot kluft at gmail.com</a> </p>
                   </div>
                 </div>
               </div>
@@ -58,8 +58,14 @@ menu = "about"
                     </div>
                     <div class="col-xs-6 col-sm-3 col-md-2 col-lg-3 social-btn-holder">
                         <a title="GitHub" class="btn btn-social btn-block btn-github"
+                            target="_BLANK" href="http://bitbucket.com/jurgen_kluft">
+                            <i class="fa fa-bitbucket"></i> /jurgen_kluft
+                        </a>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 col-md-2 col-lg-3 social-btn-holder">
+                        <a title="GitHub" class="btn btn-social btn-block btn-github"
                             target="_BLANK" href="http://github.com/jurgen-kluft">
-                            <i class="fa {{.logo}}"></i> /jurgen-kluft
+                            <i class="fa fa-github"></i> /jurgen-kluft
                         </a>
                     </div>
                     <div class="col-xs-6 col-sm-3 col-md-2 col-lg-3 social-btn-holder">
