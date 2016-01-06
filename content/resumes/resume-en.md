@@ -33,7 +33,7 @@ Email: [email me](mailto:jurgen.kluft@gmail.com)
 * Golang
 * LUA
 * Assembler for  MC680x0, DSP560x0, Zilog and PIC micro controllers
-* Python.
+* Python
 
 **Systems**:
 
@@ -123,5 +123,32 @@ Recent Seminars:
 * C++ Programming Concepts, Design and Implementation  
 * Workshop in Object-Oriented Analysis and Design  
 
+## **Projects**
 
-.
+* UNANNOUNCED (PS4) (2015-Now)  
+* UNANNOUNCED (PS4, Xbox One, PC, Unreal Engine 3 & 4) (2013-Now)  
+* “Fable Anniversary” (360, Unreal Engine 3) (2012-2013)  
+* “xcore foundation libraries and cross-platform tools” (2011-2012)  
+* “Generator Rex: Agent of Province” (PS3, Xbox 360, Wii, 3DS, NDS) (2010-2011)  
+* “MonsterJam: Path of Destruction” (PS3, 360, Wii, PSP, NDS) (2009-2010)  
+* “Motorstorm: Artic Edge” PS2 (Sony) (2008-2009)  
+* “Pimp My Ride” PS2 (Activision) (2007-2008)  
+* “SpeedRacer” NDS (Warner Bros) (2007)  
+* NDS game “Asphalt: Urban GT 2” (2006)  
+* PSP game “StreetRiders” (2005)  
+* PS3 game “Killzone 2” (2004 – 2005)  
+* PS2 game “Killzone” (2001 – 2004)  
+* PS2 game “Knights” (1999 - 2001)  
+* Automated bus system (1998-1999)  
+* Star child 3D (1997 – 1998) (Programmer II)  
+* Media Presentation Software (1997) (Programmer I)  
+* Educational Software (Shockwave) (1996-1997) (Programmer I)  
+* The Lost Ride (CDI) (1996) (Programmer I)  
+
+
+### **Language Skills**
+
+* Dutch (Native)
+* English
+* Chinese (Intermediate)
+* German
