@@ -1,0 +1,14 @@
+[about]
+    Name = "About Me"
+    IconClass = "fa-info-circle"
+    URL = "/page/about"
+
+[posts]
+    Name = "Posts"
+    Title = "Show list of posts"
+    URL = "/post"
+
+[tags]
+    Name = "Tags"
+    Title = "Show list of tags"
+    URL = "/tags"
