@@ -1,0 +1,220 @@
+{
+    "basics": {
+        "name": "Jurgen Kluft",
+        "label": "Technical Director - Software Engineer",
+        "picture": "https://ipfs.pics/QmZLGQKkedKfaGfCVbRKjuJZk9L3dcLFua8AZ4bLFLAmYL",
+        "email": "jurgen.kluft@gmail.com",
+        "phone": "(+86) 18616793279",
+        "website": "http://jurgen-kluft.github.io/",
+        "summary": "I am a Technical Director working at a major game company in _Shanghai_ (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam). I am passionate about Technology. Apart from C++/C# I have special interest in p2p technologies, high performance and embedded systems.",
+        "location": {
+            "address": "Yili South Road 34, BLDG 3, RM 1506",
+            "postalCode": "201103",
+            "city": "Shanghai",
+            "countryCode": "CN",
+            "region": "Shanghai"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "jurgen_kluft",
+                "url": "http://twitter.com/jurgen_kluft"
+            },
+            {
+                "network": "Github",
+                "username": "jurgen-kluft",
+                "url": "http://github.com/jurgen-kluft"
+            },
+            {
+                "network": "Bitbucket",
+                "username": "jurgen_kluft",
+                "url": "http://bitbucket.com/jurgen_kluft"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "jurgenkluft",
+                "url": "http://www.linkedin.com/in/jurgenkluft"
+            },
+            {
+                "network": "Stackoverflow",
+                "username": "jurgen",
+                "url": "http://stackoverflow.com/users/5755147/user5755147"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Pied Piper",
+            "position": "CEO/President",
+            "website": "http://piedpiper.com",
+            "startDate": "2013-12-01",
+            "endDate": "2014-12-01",
+            "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+            "highlights": [
+                "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+                "Successfully won Techcrunch Disrupt",
+                "Optimized an algorithm that holds the current world record for Weisman Scores"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Alkmaar",
+            "area": "EE, Electrical Engineering",
+            "studyType": "Bachelor",
+            "startDate": "1991-06-01",
+            "endDate": "1995-01-01",
+            "gpa": "4.0",
+            "courses": [
+                "Software Engineering",
+                "Analog and Digital Electronics",
+                "Micro Controllers",
+                "Measurement and Control Systems",
+                "Math, Theoretical and Applied",
+                "Physics",
+                "English"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Judo - Yellow Belt (9th Kyu)",
+            "date": "1987",
+            "awarder": "Judo Club, 't Veld",
+            "summary": "After practising Judo for more than a year i got my yellow belt!"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Video compression for 3d media",
+            "publisher": "Hooli",
+            "releaseDate": "2014-10-01",
+            "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+            "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Game Development",
+            "level": "Master",
+            "keywords": [
+                "TRC",
+                "Streaming",
+                "Memory Management",
+                "Profiling and Optimizations",
+                "Cross Platform Development",
+                "Engine Architecture",
+                "Engine Tools and Pipelines",
+                "Continues Integration"
+            ]
+        },
+        {
+            "name": "Management",
+            "level": "Master",
+            "keywords": [
+                "SCRUM",
+                "Project Planning",
+                "Client Interaction",
+                "Mentoring",
+                "Training and Support"
+            ]
+        },
+        {
+            "name": "Middleware",
+            "level": "Master",
+            "keywords": [
+                "Unreal Engine 3",
+                "Unreal Engine 4",
+                "Gamebryo",
+                "FMOD",
+                "WWise",
+                "Scaleform"
+            ]
+        },
+        {
+            "name": "Platforms",
+            "level": "Master",
+            "keywords": [
+                "PSP",
+                "PS2",
+                "PS3",
+                "PS4",
+                "XBox 360",
+                "XBox One",
+                "Nintendo DS",
+                "Nintendo WII"
+            ]
+        },
+        {
+            "name": "Software Engineering",
+            "level": "Master",
+            "keywords": [
+                "C++",
+                "C#",
+                "Golang",
+                "LUA",
+                "SOLID (OOD)",
+                "Data-Driven"
+            ]
+        },
+        {
+            "name": "Compression",
+            "level": "Master",
+            "keywords": [
+                "LZ4",
+                "Huffman",
+                "Histogram"
+            ]
+        },
+        {
+            "name": "Cryptography",
+            "level": "Master",
+            "keywords": [
+                "SHA-1",
+                "SHA-3 (Keccak)",
+                "Skein",
+                "Merkle",
+                "Encryption"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "Dutch",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "German",
+            "fluency": "Intermediate"
+        },
+        {
+            "language": "Chinese",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Science Fiction",
+            "keywords": [
+                "James P. Hogan - The Giants Series",
+                "Isaac Asimov - The Foundation Series",
+                "Isaac Asimov - The Robot Series",
+                "Perry Rhodan - Book Series"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Charles Tao",
+            "reference": "I feel very lucky to work with Jurgen since he is not only an expert in game engine but also an excellent professional technical director. He is always able to show the team a way to find the solution for problems and help to make the process efficient and smooth by using variety of management tools. Furthermore, his objective and accurate sense, down-to-earth attitute, good communication ability are great helpful for the project. The last but not the least, Jurgen has very good cross-cultural communication who wins the trust and respect of the chinese developer team."
+        },
+        {
+            "name": "Wang Lu",
+            "reference": "Jurgen is an expert in computer graphics. Team members will not worry about graphic issues since Jurgen can always handle them. And he is a realistic team leader in console game development. His project runs smoothly due to reasonable schedule and ample human resource plan."
+        }
+    ]
+}
