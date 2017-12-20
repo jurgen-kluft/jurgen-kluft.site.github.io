@@ -1,6 +1,6 @@
 +++
 date = "2016-01-06"
-menu = "English Resume"
+menu = "Chinese Resume"
 +++
 
 
