@@ -4,11 +4,7 @@
     URL = "/page/about"
 
 [posts]
-    Name = "Posts"
-    Title = "Show list of posts"
-    URL = "/post"
+    Name = "Resume"
+    Title = "Show resume"
+    URL = "/resumes/resume-en/"
 
-[tags]
-    Name = "Tags"
-    Title = "Show list of tags"
-    URL = "/tags"

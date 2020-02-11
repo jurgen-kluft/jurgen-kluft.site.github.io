@@ -34,6 +34,9 @@ disqusShortname = "Jurgen"
     name = "Jurgen"
     email = "jurgen.kluft@gmail.com"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 #
 # All parameters below here are optional and can be mixed and matched.
 #
@@ -52,9 +55,6 @@ disqusShortname = "Jurgen"
     highlight = "dark"
     showBlogHeader = true
 
-    # Google Analytics.
-    googleAnalytics = "UA-72071319-1"
-
     # Sidebar social links.
     github = "jurgen-kluft" # Your Github profile ID
     bitbucket = "jurgen-kluft" # Your Bitbucket profile ID
@@ -65,5 +65,16 @@ disqusShortname = "Jurgen"
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
 
-[params.theme]
-    name = "cosmo"
+[[menu.main]]
+    name = "RESUMES"
+    pre = "<i class='fa fa-folder-open'></i>"
+    weight = -100
+    identifier = "resume"
+    url = "/resumes/resume-en/"
+
+[[menu.main]]
+    name = "ABOUT ME"
+    pre = "<i class='fa fa-info-circle'></i>"
+    weight = -90
+    identifier = "about-me"
+    url = "/page/about"
