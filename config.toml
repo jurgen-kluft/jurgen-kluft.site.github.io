@@ -1,10 +1,9 @@
 # hostname (and path) to the root eg. http://spf13.com/
 baseurl = "http://jurgen-kluft.github.io"
-# baseurl = "file:///D:/Dev.Hugo/sites/jurgen-kluft.github.com/public"
 
 # Site title
-title = "Personal Blog"
-copyright = "(c) 2016 Jurgen"
+title = "Personal Information"
+copyright = "Jurgen"
 languageCode = "en-EN"
 canonifyurls = true
 
@@ -16,7 +15,7 @@ metaDataFormat = "toml"
 theme = "hugo-bootstrap"
 
 # Pagination
-paginate = 10
+paginate = 3
 paginatePath = "page"
 
 # Enable Disqus integration
@@ -37,44 +36,3 @@ disqusShortname = "Jurgen"
 [markup.goldmark.renderer]
 unsafe = true
 
-#
-# All parameters below here are optional and can be mixed and matched.
-#
-[params]
-    # You can use markdown here.
-    brand = "foobar"
-    topline = "few words about your site"
-    footline = "code with <i class='fa fa-heart'></i>"
-
-    # Text for the top menu link, which goes the root URL for the site.
-    # Default (if omitted) is "Home".
-    home = "home"
-
-    # Select a syntax highight.
-    # Check the static/css/highlight directory for options.
-    highlight = "dark"
-    showBlogHeader = true
-
-    # Sidebar social links.
-    github = "jurgen-kluft" # Your Github profile ID
-    bitbucket = "jurgen-kluft" # Your Bitbucket profile ID
-    linkedin = "cn.linkedin.com/in/jurgenkluft" # Your LinkedIn profile ID (from public URL)
-    googleplus = "" # Your Google+ profile ID
-    facebook = "" # Your Facebook profile ID
-    twitter = "@jurgen_kluft" # Your Twitter profile ID
-    youtube = ""  # Your Youtube channel ID
-    flattr = ""  # populate with your flattr uid
-
-[[menu.main]]
-    name = "RESUMES"
-    pre = "<i class='fa fa-folder-open'></i>"
-    weight = -100
-    identifier = "resume"
-    url = "/resumes/resume-en/"
-
-[[menu.main]]
-    name = "ABOUT ME"
-    pre = "<i class='fa fa-info-circle'></i>"
-    weight = -90
-    identifier = "about-me"
-    url = "/page/about"
