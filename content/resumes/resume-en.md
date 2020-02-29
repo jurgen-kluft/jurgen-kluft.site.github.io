@@ -125,6 +125,11 @@ Highlights:
 
 * Worked as an individual on supporting machinery with [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) software to automate machines using sensors and actuators to control their flow and operation. Introduced the use of finite state machines ([FSM](https://en.wikipedia.org/wiki/Finite-state_machine)) and hierarchical [FSM](https://en.wikipedia.org/wiki/Finite-state_machine) to the process of developing software where before there was no structured approach, by adding additional debugging information to state-machines as well as solid documentation on the states and their transitions ‘debugging’ was greatly improved for engineers but even for customers.
 
+### [**VEKO LIGHTSYSTEMS B.V. -- Schagen, NL**](https://veko.com)
+#### Lighting Systems, Programmer, 1994 to 1995
+
+Writing software in assembly for micro-controllers like Zilog and PICO, used in many light system accessories.
+
 ## **Education & Credentials**
 
 HTS -- Alkmaar, NL  
@@ -141,11 +146,19 @@ Electrical Engineering, 1986 to 1990
 
 ## **Projects**
 
+### Popcorn FX, evaluation
+
+Evaluating Popcorn FX in terms of performance, necessary integration work in both custom engines and commercial engines. This report was used to decide if acquiring this company was strategically smart.
+
+#### Virtuos Games (2017-2018)
+
+TODO; details
+
 ### L.A. Noire (Xbox 360 to Nintendo Switch)
 
 Porting L.A. Noire from Xbox 360 to Nintendo Switch
 
-#### Virtuos Games
+#### Virtuos Games (2016-2017)
 
 * Wrote runtime component to save profile and memory allocation events with stack-trace and scope, frame number and timing information from multiple threads
 * Wrote a tool to convert the profile information to a format that could be read by FramePro
@@ -303,3 +316,48 @@ Full Development of Killzone for PS2
 * Developed a Particle System with LOD logic and smart memory (re-)use
 * Melee Attack
 * Optimizations of entity::update()
+
+### Knights PS2 (1999-2000)
+
+Game development of Knights for PS2
+
+#### Digital Infinity
+
+Working on a game engine named `Katharsis`, universally applicable 3D engine for various platforms. Developed a radiosity lighting system for the Katharsis 3D engine and experimented with software rasterization techniques like S-Buffer, Span-Buffer, Edge detection etc.
+
+### Automated Bus System for Public Transport
+
+Large system development for an automated bus tracking system.
+
+#### ICT Group (1998-1999)
+
+Using OOD/OOP and C++ I worked on parts of the large software system together with a team of around 6 engineers.
+Rational Rose was used to design the class diagram which after approval was implemented in C++.
+
+### Multi Media Applications
+
+Worked on multiple products using C++ and x86 assembly. One of my note worthy efforts was writing part of a 3D engine with Jacco Bikker. This effort later was used to ship a product called 'Star Child'.
+
+#### Lostboys Multi Media (1996-1998)
+
+TODO: more details
+
+* Bubble Technology, x86 assembly
+* CDi, rendering, MC68000 assembly
+
+### Food Packing Machine
+
+Wrote the complete software solution for a food packaging machine.
+
+#### Pannekeet Machine Techniek (1995-1996)
+
+* Siemens PLC programming in assembly
+* Finite State Machine; both as documentation as well as a FSM framework
+
+### Infrared Controller (1994-1995)
+
+Writing software in assembly for an infrared remote to control lighting equipment.
+
+#### Veko LightSystems
+
+Designed the FSM that described the states and transitions that the remote could go through and implemented for the PICO micro-controller. The PICO micro-controller had 4 KB of memory and limited performance.
