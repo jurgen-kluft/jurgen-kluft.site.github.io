@@ -95,7 +95,6 @@
                                 <li>Memory management and allocator. Debugging memory leaks and memory corruptions.</li>
                                 <li>Analysing the performance of data-building pipelines and implementing optimizations.</li>
                                 <li>Writing simple tools that can remove a lot of manual work, for example a smart Visual Studio Solution and Project generator.</li>
-                                <li>Analysing the performance of data-building pipelines and implementing optimizations.</li>
                             </ul>
                         </div>
                     </div>

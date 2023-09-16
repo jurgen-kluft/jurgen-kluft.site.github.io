@@ -48,8 +48,7 @@ Email: [email me](mailto:jurgen.kluft@gmail.com)
 
 Experience with and understanding most of the following:
 
-* SHA-1, SHA-3 (Keccak)
-* Skein
+* Hashing
 * Merkle-Tree
 * Block-Chain
 
