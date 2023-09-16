@@ -5,8 +5,10 @@ menu = "English Resume - Virtuos Games"
 
 # Virtuos Games
 
-Unannounced Xbox game (Proprietary Engine) Remaster (Xbox One, PS4) 2018-2019
-Evaluating Popcorn FX middleware 2018
+Developing; Texture Upscale Pipeline
+CODA (UE4) Co-development for Xbox One/Xbox Series, PS4/PS5, Nintendo Switch (2020-2022)
+Unannounced Xbox/PS4 game (Proprietary Engine) Remaster (Xbox One, PS4) 2018-2019
+Evaluating; Popcorn FX middleware 2018
 L.A. Noire (Xbox 360 to Nintendo Switch) 2016-2017
 Assassin’s Creed The Ezio Collection (PS4, XBox One) 2016-2016
 Heavy Rain (PS3 to PS4 port, proprietary engine and tools) 2015-2016
@@ -20,6 +22,32 @@ Asphalt 2 (NDS) 2006-2007
 StreetRiders (PSP) 2005-2006
 
 ## **Projects**
+
+### Texture Upscale Pipeline 
+
+Duration: ~4 months
+Size: 2 Engineers
+Platform; Windows PC
+
+#### Virtuos Games
+
+Technologies:
+* C/C++, C#
+* OpenSource upscalers:
+    * ESRGAN (https://github.com/xinntao/Real-ESRGAN)
+    * Waifu2x (https://github.com/nihui/waifu2x-ncnn-vulkan)
+* Many image manipulation CLI tools written in C/C++:
+    * tiling enlarge/shrink
+    * alpha split/merge
+    * smart blend
+    * color correction
+    * normal decode/renormalize
+* Multi-Threaded
+* Structured Logging
+* Fully configurable upscale pipelines
+* 
+* Custom JSON deserialization
+* Visual Studio 2022
 
 ### L.A. Noire (Xbox 360 to Nintendo Switch) (2015-2016)
 
