@@ -1,0 +1,116 @@
+baseURL: http://jurgen-kluft.github.io/
+languageCode: en-us
+build:
+  writeStats: true
+params:
+  title: Personal - Jurgen Kluft
+  author: Jurgen Kluft
+  description: Personal details of Jurgen Kluft
+  copyright: >-
+    powered by [hugo](https://gohugo.io/) & deployed on
+    [Github](https://www.github.com/)
+  theme:
+    mainTheme: dark
+    showAttribute: false
+    singlePage: false
+  favicons:
+    use: true
+    metas: |2-
+              <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+              <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+              <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+              <link rel="manifest" href="site.webmanifest">
+              <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
+              <link rel="shortcut icon" href="favicon.ico">
+
+  profile:
+    name: "Jurgen Kluft"
+    tagline: Senior Software Engineer
+    location: "Shanghai, CN"
+    photo: avatar.jpg
+  social:
+    title: Links
+    list:
+      - icon: fab fa-linkedin-in
+        url: "http://www.linkedin.com/in/jurgenkluft"
+        title: LinkedIn
+      - icon: fab fa-stack-overflow
+        url: "http://stackexchange.com/users/7579085/jurgen"
+        title: StackOverflow
+      - icon: fab fa-github
+        url: "https://github.com/jurgen-kluft"
+        title: GitHub
+  showInAccordion:
+    - item: aboutme
+      expand: true
+    - item: experience
+    - item: education
+    - item: project
+    - item: skill
+    - item: hobby
+  aboutme:
+    title: About Me
+    icon: fas fa-user
+    description: I am a Senior Software Engineer currently working at a large game out-sourcing company in Shanghai (China).
+  experience:
+    title: Experiences
+    icon: fas fa-briefcase
+    list:
+      - position: Technical Director
+        dates: 2008 - *Present*
+        url: "https://www.virtuosgames.com"
+        company: Virtuos Games
+        details: |1-
+          - 
+          - 
+          - 
+      - position: Lead Software Engineer
+        dates: 2005 - 2008
+        url: "https://www.virtuosgames.com"
+        company: Virtuos Games
+      - position: Senior Software Engineer
+        dates: 2000 - 2005
+        url: "https://www.guerrillagames.com"
+        company: Guerrilla Games
+  education:
+    title: Education
+    icon: fas fa-graduation-cap
+    list:
+      - degree: B.S. in Measurement and Control Engineering
+        college: Alkmaar University of Applied Sciences
+        dates: 1991 - 1995
+      - degree: E.S. in Electronics
+        college: Den Helder College
+        dates: 1987 - 1991
+  project:
+    title: Personal Projects
+    icon: fas fa-project-diagram
+    list:
+      - title: Virtual Memory Allocator in C++
+        url: "https://github.com/jurgen-kluft/csuperalloc"
+        description: Description of the project
+      - title: C++ Project Manager in Go
+        url: "https://github.com/jurgen-kluft/ccode"
+        description: Project Manager and Generator for C++ projects
+  skill:
+    title: Skills
+    panelId: skill-panel
+    icon: fas fa-cogs
+    list:
+      - skill: "C++ Language"
+        skillrating: 95
+      - skill: "C Language"
+        skillrating: 90
+      - skill: "Go Language"
+        skillrating: 85
+      - skill: "C# Language"
+        skillrating: 85
+  hobby:
+    title: Hobbies
+    icon: fas fa-gamepad
+    list:
+      - hobby: PS5 Console Gaming
+      - hobby: Reading, Sci-Fi
+      - hobby: Split Keyboard Enthusiast
+        url: "https://splitkb.com/collections/keyboard-kits/products/elora"
+      - hobby: Cooking and Baking

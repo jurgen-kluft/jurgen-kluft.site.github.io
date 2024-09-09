@@ -1,13 +1,15 @@
-+++
-date = "2020-02-11"
-menu = "English Resume"
-+++
-
-# Resume
+---
+title: "Resume (English)"
+date: 2024-09-09
+tags: ["resume", "english"]
+categories: ["resume", "software-engineering"]
+description: ""
+draft: false
+---
 
 ## TECHNICAL DIRECTOR, SOFTWARE ENGINEERING
 
-I am a Senior Software Engineer working at a major game company in _Shanghai_ (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam). I am passionate about Technology. Apart from C++/C# I have special interest in high performance and embedded systems as well as P2P technologies.
+I am a Senior Software Engineer working at a major game company in _Shanghai_ (China). In the past I have worked at various other big companies in the Netherlands including Guerrilla Games (Amsterdam) and ICT (Rotterdam). I am passionate about Technology. Apart from C++/C# I have special interest in high performance and embedded systems.
 
 ## **_PERSONAL INFO_**
 
@@ -16,18 +18,18 @@ Date of Birth: June 19, 1971
 Nationality: Dutch  
 Residence:  Shanghai, China (China Permanent Residence Card holder)  
 Address: 3-1506, 34 South Yili Road, Shanghai, China  
-Mobile: 18616793279  
+Mobile: 186xxxxxxxx  
 Website: [website](http://jurgen-kluft.github.io/)  
-Email: [email me](mailto:jurgen.kluft@gmail.com)
+Email: jurgen dot kluft at gmail dot com
 
 ### **_Language Skills_**
 
 * Dutch (Native)
 * English (Fluent)
 * Chinese (Intermediate)
-* German (Beginner/Intermediate)
+* German (Beginner)
 
-## **_TECHNOLOGY SUMMARY_**
+## **_EXPERIENCE SUMMARY_**
 
 **Languages/Programming**:
 
@@ -36,34 +38,21 @@ Email: [email me](mailto:jurgen.kluft@gmail.com)
 * Golang
 * Assembly (AVX/SSE, MC680x0, DSP560x0, Zilog and PIC micro controllers)
 * LUA
-* Python
+* Python (basic)
 
-**Systems**:
+**Consoles**:
 
-* PSP/PS2/PS3/PS4
-* Xbox-360/Xbox-One
+* PSP/PS2/PS3/PS4/PS5
+* Xbox-360/Xbox-One/Xbox Series
 * Nintendo DS/WII/Switch
-
-**Cryptography**:
-
-Experience with and understanding most of the following:
-
-* Hashing
-* Merkle-Tree
-* Block-Chain
 
 **Network**:
 
-* TCP/IP, Ledbat
+* TCP/IP, UDP
 * Protocols; packet/messaging custom protocols, pub-sub, req-rep
 * P2P; DHT (Chord, Kademlia, Symphony), BitTorrent protocol
 * ZeroMQ
 * MessagePack / Protocol Buffers
-
-**Databases**:
-
-* Redis
-* MongoDB
 
 ## **_PROFESSIONAL EXPERIENCE_**
 
@@ -75,17 +64,17 @@ Develop, maintain and support tools and systems for the infrastructure of projec
 Highlights:
 
 * SCRUM, Hansoft, JIRA
-* Exposed to many consoles; Sony PSP/PS2/PS3/PS4, Xbox 360/One/One X, Nintendo DS/3DS/Wii/Switch
+* Exposed to many consoles; Sony PSP/PS2/PS3/PS4/PS5, Xbox 360/One/XboxSeries, Nintendo DS/3DS/Wii/Switch
 * Team Management, from small teams ~5 to teams consiting of ~20 programmers
-* Learned many version control systems, from CVS/SVN and Perforce to Mercurial and Git
-* Dealt with many game engines, from commercial engines like UE3/UE4/Havok-Vision as well as AAA proprietary engines
+* Experience with many version control systems, from CVS/SVN and Perforce to Mercurial and Git
+* Dealt with many game engines, from commercial engines like UE3/UE4/UE5 as well as many proprietary engines
 * Worked with many commercial SDK's; Bink, Scaleform, Havok Physics & Animation, PhysX, FMOD & WWise
-* Full development for SpeedRacer for Nintendo DS, writing everything from scratch. Project and game where quite succesfull
+* Most memorable project: Full development of SpeedRacer for Nintendo DS, writing everything from scratch. 
 
 ### [**GUERRILLA GAMES -- Amsterdam, NL**](http://www.guerrilla-games.com/)
 #### Senior/Lead Programmer, 2000 to 2005
 
-Led project programming tasks including enhancements, maintenance and support for products and tools. Engineered software systems, handling detailed analysis and intricate programming to meet project requirements.
+Leading project programming tasks including enhancements, maintenance and support for products and tools. Engineered software systems, handling detailed analysis and intricate programming to meet project requirements.
 
 Highlights:
 

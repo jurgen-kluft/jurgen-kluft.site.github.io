@@ -1,9 +1,11 @@
-+++
-date = "2020-02-11"
-menu = "English Resume - Virtuos Games"
-+++
-
-# Virtuos Games
+---
+title: "Project Experience - Virtuos Games"
+date: 2024-09-09
+tags: ["resume", "experience", "software-engineering"]
+categories: ["resume"]
+description: ""
+draft: false
+---
 
 Developing; Texture Upscale Pipeline
 CODA (UE4) Co-development for Xbox One/Xbox Series, PS4/PS5, Nintendo Switch (2020-2022)
